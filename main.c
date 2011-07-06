@@ -91,7 +91,7 @@ int main()
 
 #ifdef PART3
       case CHOICE_LIST:
-        do_list_products();
+        list_products();
         break;
 #endif
 
