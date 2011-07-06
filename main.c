@@ -4,8 +4,8 @@
 #include "inventory.h"
 
 #define CHOICE_ADD  '1'
-#define CHOICE_FIND '2'
-#define CHOICE_LIST '3'
+#define CHOICE_LIST '2'
+#define CHOICE_FIND '3'
 #define CHOICE_DELE '4'
 #define CHOICE_QUIT '5'
 #define MAX_NAME_CHARS 80
